@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1656712967 source:c:\documents\facultad\laboratorio\tp_2022\tp_mio\tp\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1656733314 source:c:\users\tomás banchio\desktop\tp-backup\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1656735983 source:c:\users\tomás banchio\documents\tp-sinordenar\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1656768538 source:c:\users\tomás banchio\desktop\tp-paraordenar\main.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1656863689 source:c:\users\tomás banchio\desktop\tp-tb\main.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1656864196 source:c:\users\tomás banchio\desktop\tp-banchio\tp-tb\main.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1657053716 source:c:\documents\facultad\laboratorio\tp-banchio\tp-tb\main.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1657139006 source:c:\documents\facultad\laboratorio\tp-banchio\tp-tb\sorteo-mundial-qatar\main.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
