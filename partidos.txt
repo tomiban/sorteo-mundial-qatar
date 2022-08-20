@@ -1,1 +1,144 @@
+1 2 Qatar
+1 Canada
+
+2 2 Qatar
+3 Marruecos
+
+3 1 Qatar
+4 Uruguay
+
+4 2 Uruguay
+1 Canada
+
+5 2 Uruguay
+1 Marruecos
+
+6 2 Marruecos
+2 Canada
+
+7 3 Espania
+1 Gales
+
+8 2 Espania
+0 Tunez
+
+9 1 Espania
+2 Holanda
+
+10 3 Holanda
+1 Gales
+
+11 2 Holanda
+1 Tunez
+
+12 1 Tunez
+0 Gales
+
+13 2 Belgica
+1 Arabia
+
+14 3 Belgica
+1 Corea
+
+15 2 Belgica
+2 Usa
+
+16 1 Usa
+0 Arabia
+
+17 2 Usa
+3 Corea
+
+18 1 Corea
+1 Arabia
+
+19 3 Brasil
+0 Camerun
+
+20 3 Brasil
+1 Japon
+
+21 1 Brasil
+0 Dinamarca
+
+22 2 Dinamarca
+1 Camerun
+
+23 1 Dinamarca
+1 Japon
+
+24 2 Japon
+1 Camerun
+
+25 3 Argentina
+1 Ecuador
+
+26 3 Argentina
+2 Senegal
+
+27 1 Argentina
+0 Mexico
+
+28 2 Mexico
+1 Ecuador
+
+29 3 Mexico
+1 Senegal
+
+30 2 Senegal
+1 Ecuador
+
+31 2 Portugal
+1 Australia
+
+32 2 Portugal
+3 Serbia
+
+33 1 Portugal
+2 Alemania
+
+34 4 Alemania
+0 Australia
+
+35 3 Alemania
+1 Serbia
+
+36 2 Serbia
+1 Australia
+
+37 2 Inglaterra
+3 Costa Rica
+
+38 1 Inglaterra
+0 Iran
+
+39 2 Inglaterra
+1 Suiza
+
+40 2 Suiza
+2 Costa Rica
+
+41 1 Suiza
+3 Iran
+
+42 2 Iran
+1 Costa Rica
+
+43 2 Francia
+3 Ghana
+
+44 1 Francia
+2 Polonia
+
+45 3 Francia
+2 Croacia
+
+46 1 Croacia
+1 Ghana
+
+47 1 Croacia
+2 Polonia
+
+48 3 Polonia
+2 Ghana
 
